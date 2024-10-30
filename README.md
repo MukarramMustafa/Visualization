@@ -53,7 +53,7 @@ Each visualization in this project provides unique insights into data trends and
 
 ### 1. **Bar Plot of Average Age of Visitors by Cinema**
 
-![Bar Plot of Average Spend for Each Cinema](images/Bar Plot of Average Spend for Each Cinema.png)
+![Bar Plot of Average Spend for Each Cinema](images/Bar_Plot_of_Average_Spend_for_Each_Cinema.png)
 
 
 - **Purpose**: Understanding age demographics helps cinemas tailor offerings and marketing strategies.
