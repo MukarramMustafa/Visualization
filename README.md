@@ -62,11 +62,15 @@ Each visualization in this project provides unique insights into data trends and
 
 ### 2. **Trend Line Plot of Overhead Costs Over Time**
 
+![Trend_Line_Plot_of_Overhead_Costs_Over_Time](images/Trend_Line_Plot_of_Overhead_Costs_Over_Time.png)
+
 - **Purpose**: Monitoring overhead expenses is vital to managing operational efficiency.
 - **Insights**: Identifies fluctuations in overhead costs, aiding stakeholders in pinpointing areas for potential cost savings.
 - **Decision Making**: Helps guide budget adjustments and resource allocations for better financial health.
 
 ### 3. **Bar Plot of Marketing Expenditure**
+
+![Bar_Plot_of_Marketing_Expenditure](images/Bar_Plot_of_Marketing_Expenditure.png)
 
 - **Purpose**: Analyzing marketing expenses highlights the effectiveness of various promotional strategies.
 - **Insights**: Shows marketing resource allocation across cinemas and evaluates differences in spending patterns.
@@ -74,17 +78,23 @@ Each visualization in this project provides unique insights into data trends and
 
 ### 4. **Scatter Plot of Anomalies in Average Spend**
 
+![Scatter_Plot_of_Anomalies_in_Average_Spend](images/Scatter_Plot_of_Anomalies_in_Average_Spend.png)
+
 - **Purpose**: Identifying outliers in spending can reveal significant behavioral or operational insights.
 - **Insights**: Highlights cinemas with unusually high or low average spends, offering clues into potential revenue variations.
 - **Correlations**: Analysis may reveal links between spending and factors like seating capacity or marketing.
 
 ### 5. **Trend Line Plot of Weekly Visitors Over Time**
 
+![Trend_Line_Plot_of_Weekly_Visitors_Over_Timee](images/Trend_Line_Plot_of_Weekly_Visitors_Over_Time.png)
+
 - **Purpose**: Analyzing visitor counts over time aids in understanding seasonal patterns and trends.
 - **Insights**: Identifies fluctuations in visitor numbers, crucial for strategic marketing and operational planning.
 - **Seasonality**: Reveals recurring peaks or drops in visitor traffic, helping plan events and promotions.
 
 ### 6. **Bar Plot of Average Spend for Each Cinema**
+
+![Bar_Plot_of_Average_Spend_for_Each_Cinema](images/Bar_Plot_of_Average_Spend_for_Each_Cinema.png)
 
 - **Purpose**: Provides insights into spending behavior across different locations.
 - **Insights**: Differences in average spending help cinemas tailor pricing and customer engagement strategies.
